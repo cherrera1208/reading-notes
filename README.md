@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Growth Mindset
 
-You can use the [editor on GitHub](https://github.com/cherrera1208/reading-notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Growth mindset is the state of allowing onselef to become familiar with failure and challenges in order to gain new skills, perspectives, and experiences. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**remember...**
+  - I *AM NOT* expected to know everything.
+  - I *WILL* embrace challenge and failure.
+  - I *CAN* ask questions and for help when I get stuck.
 
-### Markdown
+# Hello World!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+this is an example of **bold** text,
 
-```markdown
-Syntax highlighted code block
+and here is *italicized* text
 
-# Header 1
-## Header 2
-### Header 3
+~~quote me on it~~ or, don't 
 
-- Bulleted
-- List
+> and here is *italicized* text
+1. I can also ***strongly emphasize*** this text
+2. And create lists 
+    - let's learn [markdown!](github.com/cherrera1208/reading-notes/markdown.md) 
+      - useful link of markdown syntax
 
-1. Numbered
-2. List
+Heres a pic of a cat. I just dragged and dropped this image from google. ![download](https://user-images.githubusercontent.com/107902478/174715054-5e009e2f-9b26-44f8-aa3d-1e82c113b1db.png)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cherrera1208/reading-notes/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+now I will create a *link* of a picture of a [cat](https://user-images.githubusercontent.com/107902478/174714099-25a0f862-9b60-408f-ac4a-a6cca4b92cdf.jpg)
+>*removing the **!** from the square braces creates a link instead of a direct image. 
