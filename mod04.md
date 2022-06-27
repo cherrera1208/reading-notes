@@ -3,9 +3,9 @@
 
 ## Wireframing
 
-- A UX<sup>1</sup> concept of creating a model of a proposed website, app, or software idea through physical means, such as a whiteboard, or programs like invision and balsamiq.
+- A UX concept of creating a model of a proposed website, app, or software idea through physical means, such as a whiteboard, or programs like invision and balsamiq.
 
-<sup>1.</sup> UX = User Experience. Def: the overall experience of a person using a product.
+- UX = User Experience. The overall experience of a person using a product.
 
 ## Mozilla HTML Basics
 
