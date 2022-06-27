@@ -4,11 +4,21 @@
 Growth mindset is the state of allowing onselef to become familiar with failure and challenges in order to gain new skills, perspectives, and experiences.
 
 **remember...**
-  -I *AM NOT* expected to know everything.
-  -I *WILL* embrace challenge and failure.
-  -I *CAN* ask questions and for help when I get stuck.
 
-# Hello World
+- I *AM NOT* expected to know everything.
+- I *WILL* embrace challenge and failure.
+- I *CAN* ask questions and for help when I get stuck.
+
+## Daily Reading Notes
+
+- [Day 01: Learning Markdown](mod01.md)
+- [Day 02: The Coder's Computer](mod02.md)
+- [Day 03: Revisions and the Coud](mod03.md)
+- [Day 04: Structure Web Pages in HTML](mod04.md)
+- [Day 05: Design Web Pages With CSS](mod05.md)
+- [Day 06: Dynamic Web Pages With JavaScript](mod06.md)
+
+## Hello World
 
 this is an example of **bold** text,
 
