@@ -3,9 +3,9 @@
 
 ## CSS
 
-Cascading Style Sheets is a simple but powerful tool that turns basic HTML into intersting and aesthetic webpages that people want to experience. 
+Cascading Style Sheets is a simple but powerful tool that turns basic HTML into intersting and aesthetic webpages that people want to experience.
 
-Similar to HTML's *index* page, CSS uses a homepage names `style.css`. An important step to remember is to "introduce" the CSS code text to the HTML page. This requires a simple relationship tag to be appended to the HTML file, generally under the title section... 
+Similar to HTML's *index* page, CSS uses a homepage named `style.css`. An important step to remember is to "introduce" the CSS code text to the HTML page. This requires a simple relationship tag to be appended to the HTML file, generally under the title section...
 
 `<link rel="stylesheet" href="style.css">`
 
