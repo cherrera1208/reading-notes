@@ -9,8 +9,8 @@ Growth mindset is the state of allowing onselef to become familiar with failure 
 **remember...**
 
 - I _AM NOT_ expected to know everything.
-- I _EMBRACE_ embrace challenge and failure.
-- I _WILL_ ask questions and for help when I get stuck.
+- I _EMBRACE_ challenge and failure.
+- I _WILL_ ask for help .
 
 ## Table of Contents
 
