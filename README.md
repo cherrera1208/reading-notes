@@ -1,48 +1,35 @@
-# Growth Mindset
+# Reading Notes Repository
+
+A collection of my notes from the daily reading assignments.
+
+## Growth Mindset
 
 Growth mindset is the state of allowing onselef to become familiar with failure and challenges in order to gain new skills, perspectives, and experiences.
 
 **remember...**
 
 - I _AM NOT_ expected to know everything.
-- I _WILL_ embrace challenge and failure.
-- I _CAN_ ask questions and for help when I get stuck.
+- I _EMBRACE_ embrace challenge and failure.
+- I _WILL_ ask questions and for help when I get stuck.
 
-## Hello World
+## Table of Contents
 
-this is an example of **bold** text,
+### Code 102 Reading Notes
 
-and here is _italicized_ text
+- [Day 01: Learning Markdown](code-102n64/mod01.md)
+- [Day 02: The Coder's Computer](code-102n64/mod02.md)
+- [Day 03: Revisions and the Coud](code-102n64/mod03.md)
+- [Day 04: Structure Web Pages in HTML](code-102n64/mod04.md)
+- [Day 05: Design Web Pages With CSS](code-102n64/mod05.md)
+- [Day 06: Dynamic Web Pages With JavaScript](code-102n64/mod06.md)
+- [Day 07: Programming with JavaScript](code-102n64/mod07.md)
+- [Day 08: Operators and Loops](code-102n64/mod08.md)
 
-~~quote me on it~~ or, don't
+### Code 201 Reading Notes
 
-1. I can also **_strongly emphasize_** this text
-2. And create lists
-   - let's learn [markdown!](github.com/cherrera1208/reading-notes/markdown.md)
-     - useful link of markdown syntax
-
-Heres a pic of a cat. I just dragged and dropped this image from google. ![download](https://user-images.githubusercontent.com/107902478/174715054-5e009e2f-9b26-44f8-aa3d-1e82c113b1db.png)
-
-now I will create a [_link_](https://user-images.githubusercontent.com/107902478/174714099-25a0f862-9b60-408f-ac4a-a6cca4b92cdf.jpg) of a picture of a cat
-
-> \*removing the **!** from the square braces creates a link instead of a direct image.
-
-## Code 102 Reading Notes
-
-- [Day 01: Learning Markdown](mod01.md)
-- [Day 02: The Coder's Computer](mod02.md)
-- [Day 03: Revisions and the Coud](mod03.md)
-- [Day 04: Structure Web Pages in HTML](mod04.md)
-- [Day 05: Design Web Pages With CSS](mod05.md)
-- [Day 06: Dynamic Web Pages With JavaScript](mod06.md)
-- [Day 07: Programming with JavaScript](mod07.md)
-- [Day 08: Operators and Loops](mod08.md)
-
-## Code 201 Reading Notes
-
-- [Day 01:]
-- [Day 02:]
-- [Day 03:]
+- [Day 01: Getting Started](code-201n94/class-01.md)
+- [Day 02: Basics of HTML, CSS, JS](code-201n94/class-02.md)
+- [Day 03: Lists, Control Flow, and Box Model](code-201n94/class-03.md)
 - [Day 04:]
 - [Day 05:]
 - [Day 06:]
