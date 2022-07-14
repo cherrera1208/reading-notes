@@ -1,6 +1,6 @@
 # Class-03: Lists, Control Flow, and Box Model
 
-Styling a web page with lists, ordered or unordered, can help display information in an easy to read manner or give instructions. The css box model makes a webpage more uniform and organized and pleasing to look at and interact with. And the JS concepts of arrays, operators & expressions, conditionals, and loops are incredibly important in the useability and stability of a website. These are the foundational elements of the logic of a website's behavior.
+Styling a web page with lists, ordered or unordered, can help display information in an easy to read manner or give instructions. The css box model makes a webpage more uniform and organized and pleasing to look at and interact with. And the JS concepts of arrays, operators & expressions, conditionals, and loops are incredibly important in the usability and stability of a website. These are the foundational elements of the logic of a website's behavior.
 
 <!-- answer questions -->
 
@@ -12,7 +12,7 @@ Styling a web page with lists, ordered or unordered, can help display informatio
 
   2. Bullet styles are changed in the css stylesheet with `list-style-type`.
 
-  3. Use and ordered list to describe groups according to a specific numeric heirarchy or system, such as instructions of a recipe or sections of a document. Unordered list do not rely on numeric values and are simply a collection.
+  3. Use and ordered list to describe groups according to a specific numeric hierarchy or system, such as instructions of a recipe or sections of a document. Unordered list do not rely on numeric values and are simply a collection.
 
   4. To change the numbers on an ordered list use `start` to begin the list at a designated number, or `reversed` to count backwards.
 
