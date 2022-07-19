@@ -30,15 +30,15 @@ Growth mindset is the state of allowing onselef to become familiar with failure 
 - [Day 01: Getting Started](code-201n94/class-01.md)
 - [Day 02: Basics of HTML, CSS, JS](code-201n94/class-02.md)
 - [Day 03: Lists, Control Flow, and Box Model](code-201n94/class-03.md)
-- [Day 04:]
-- [Day 05:]
-- [Day 06:]
-- [Day 07:]
-- [Day 08:]
-- [Day 09:]
-- [Day 10:]
-- [Day 11:]
-- [Day 12:]
-- [Day 13:]
-- [Day 14:]
-- [Day 15:]
+- [Day 04: HTML Links, Fucntions, and CSS Layouts](code-201n94/class-04.md)
+- [Day 05: Images, Color, Text](code-201n94/class-05.md)
+- [Day 06: Problem Domain, Objects, and the DOM](code-201n94/class-06.md)
+- [Day 07: Object-Oriented Programming, HTML Tables](code-201n94/class-07.md)
+- [Day 08: CSS Layout](code-201n94/class-08.md)
+- [Day 09:](code-201n94/class-09.md)
+- [Day 10:](code-201n94/class-10.md)
+- [Day 11:](code-201n94/class-11.md)
+- [Day 12:](code-201n94/class-12.md)
+- [Day 13:](code-201n94/class-13.md)
+- [Day 14:](code-201n94/class-14.md)
+- [Day 15:](code-201n94/class-15.md)

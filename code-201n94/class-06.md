@@ -14,5 +14,5 @@ This topic is important because objects are the real values used in the world. P
 
 1. Document Object Model: "the objects that comprise the structure of the content of a document on the web." -MDN Web docs
 
-2. JavaScript accesses the DOM for website elements. 
+2. JavaScript accesses the DOM for website elements.
 Things I would Like to Know More About
