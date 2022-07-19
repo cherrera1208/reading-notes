@@ -1,12 +1,12 @@
 # Class 08: CSS Layout
 
-This topic is important because flexbox is designed to be flexible for various sscreen sizes and resolutions.
+This topic is important because flexbox is designed to be flexible for various screen sizes and resolutions.
 
 ## Learn CSS - Flexbox
 
-1. One-dimesnional content is in one directions, horizontal or vertical (rows or columns).
+1. One-dimensional content is in one directions, horizontal or vertical (rows or columns).
 
-2. Main-axis is theflex-direction, or the flow of flex elements, while cross-axis is it's opposite. For instance, if page's flex-direction is in rows, then the cross-axis is in columns.
+2. Main-axis is the flex-direction, or the flow of flex elements, while cross-axis is it's opposite. For instance, if page's flex-direction is in rows, then the cross-axis is in columns.
 
 3. Reordering visual display of HTML content WILL NOT reorder the logical order of the content.
 
