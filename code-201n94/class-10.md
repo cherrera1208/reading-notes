@@ -12,11 +12,11 @@ Debugging is important because it's beneficial to approach problems in a systema
     How will this topic continue to influence your long term goals?
  -->
 
-1.question1
+1.Syntax errors are errors in the "grammar" of the code, logic errors are errors in the outcome or performance of the code. Syntax errors will usually not run, logic errors may run but in unexpected ways.
 
-2.question2
+2.The most frustrating errors I've encountered are syntax. One was a missing curly bracket pair after an if statement. I didn't see any lint error and the code ran, but it didn't do what I wanted. Another was the order in which I invoked some functions caused an UND result.
 
-3.question3
+3.Every time I think I figure something out, it breaks in new way. I have to be on high alert for these bugs.
 
 ## The JS Debugger
 
@@ -27,9 +27,9 @@ Debugging is important because it's beneficial to approach problems in a systema
     What is the call stack?
  -->
 
- 1.question1
+ 1.The important bits are the code and the watch list. The code area is the largest and most obvious, this is where you set breakpoints. The watch area is a list of the breakpoints you have.
 
- 2.question2
+ 2.Breakpoints are where the user intends to pause the code for troubleshooting. The call stack are the lines of code that were ran.
 
 ### Bookmark and Review
 
@@ -39,4 +39,4 @@ Debugging is important because it's beneficial to approach problems in a systema
 
 ### Things I Wish I Knew About
 
-Insert Text Here
+I've never used the debugger. I just test things in the code itself. This looks better. So I want to know how to use it. 
