@@ -39,4 +39,4 @@ Debugging is important because it's beneficial to approach problems in a systema
 
 ### Things I Wish I Knew About
 
-I've never used the debugger. I just test things in the code itself. This looks better. So I want to know how to use it. 
+I've never used the debugger. I just test things in the code itself. This looks better. So I want to know how to use it.
