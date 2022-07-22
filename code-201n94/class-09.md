@@ -21,4 +21,14 @@ This is an important topic because forms are how users enter data or information
 
 2. name of event and code of handler function
 
-3. 
+3. Even bubbling is when we "listen" to a larger event (parent) element so we can "hear the smaller pieces that are clicked, and event capturing is the opposite; it is captured on the outer element and propogates to the inner.
+
+### Bookmark and Review
+
+  -[HTML5 Input Types](https://developer.mozilla.org/en-US/docs/Learn/Forms/HTML5_input_types)
+
+  -[Event Reference and listings](https://developer.mozilla.org/en-US/docs/Web/Events)
+
+### Things I Wish I Knew More About
+
+TEXT GOES HERE
