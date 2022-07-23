@@ -14,11 +14,11 @@ This topic will cover the very basic ideas and concepts of front-end languages.
 
  -->
 
- 1. Oh, HTTP
-    I ask of thee
-    To send a request
-    of my interest
-    from server to me
+ 1. Oh, HTTP  
+    I ask of thee  
+    To send a request  
+    of my interest  
+    from server to me  
 
   2.The browser parses the the files in order from HTML>CSS>JS by reading the elements in the HTML associated with the language type; `<style></style>` for css, and `<script></script>`
 
