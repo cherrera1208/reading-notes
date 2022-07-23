@@ -1,10 +1,10 @@
 # Reading Notes Repository
 
-A collection of my notes from the daily reading assignments.
+A collection of my notes from the useful and interesting readings assigned at Code Fellows.
 
 ## Growth Mindset
 
-Growth mindset is the state of allowing onselef to become familiar with failure and challenges in order to gain new skills, perspectives, and experiences.
+Growth mindset is the state of allowing oneself to become familiar with failure and challenges in order to gain new skills, perspectives, and experiences.
 
 **remember...**
 
@@ -36,8 +36,8 @@ Growth mindset is the state of allowing onselef to become familiar with failure 
 - [Day 07: Object-Oriented Programming, HTML Tables](code-201n94/class-07.md)
 - [Day 08: CSS Layout](code-201n94/class-08.md)
 - [Day 09: Forms and JS Events](code-201n94/class-09.md)
-- [Day 10: Debuggind](code-201n94/class-10.md)
-- [Day 11:](code-201n94/class-11.md)
+- [Day 10: Debugging](code-201n94/class-10.md)
+- [Day 11 Audio, Video, Images:](code-201n94/class-11.md)
 - [Day 12:](code-201n94/class-12.md)
 - [Day 13:](code-201n94/class-13.md)
 - [Day 14:](code-201n94/class-14.md)

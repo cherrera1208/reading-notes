@@ -28,7 +28,7 @@ Media makes a web app feel alive and dynamic. Media content also enhances access
   -->
 
   1.The primary difference is that flexboxes are one-dimensional
-  2. A *Grid container* is the parent of all grid items and is the element where `display` lives. *Grid lines* are the dividing lines that build the grid, and *grid items* are the children of the grid container, where the content occurs. 
+  2. A *Grid container* is the parent of all grid items and is the element where `display` lives. *Grid lines* are the dividing lines that build the grid, and *grid items* are the children of the grid container, where the content occurs.
 
 ## Responsive Images
 
