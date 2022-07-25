@@ -11,7 +11,9 @@
 -->
 
 1.text
+
 2.text
+
 3.text
 
 ## Chart.js Documentation
@@ -24,6 +26,7 @@
 -->
 
 1.text
+
 2.text
 
 ## Easily Create Stunning Animated Charts with Chart.js
@@ -36,6 +39,7 @@
 -->
 
 1.text
+
 2.text
 
 ###Things I wish I Knew More About
