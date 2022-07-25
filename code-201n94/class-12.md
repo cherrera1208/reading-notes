@@ -1,1 +1,5 @@
-# Class 12
+# Class 12: Chart.js, Canvas
+
+## JavaScript Canvas
+
+<!-- comment -->
