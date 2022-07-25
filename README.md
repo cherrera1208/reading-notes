@@ -38,7 +38,7 @@ Growth mindset is the state of allowing oneself to become familiar with failure 
 - [Day 09: Forms and JS Events](code-201n94/class-09.md)
 - [Day 10: Debugging](code-201n94/class-10.md)
 - [Day 11 Audio, Video, Images:](code-201n94/class-11.md)
-- [Day 12:](code-201n94/class-12.md)
+- [Day 12:Chart.js, Canvas](code-201n94/class-12.md)
 - [Day 13:](code-201n94/class-13.md)
 - [Day 14:](code-201n94/class-14.md)
 - [Day 15:](code-201n94/class-15.md)
