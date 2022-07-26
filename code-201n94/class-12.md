@@ -1,6 +1,6 @@
 # Class 12: Chart.js, Canvas
 
-## JavaScript Canvas
+## [JavaScript Canvas](https://www.javascripttutorial.net/web-apis/javascript-canvas/)
 
 <!-- Questions: 
 
@@ -10,13 +10,13 @@
 
 -->
 
-1.text
+1.allows you to draw 2D graphics with JS
 
-2.text
+2.the content between the tags will be fallback content if the content doesn't work
 
-3.text
+3.returns a context type. [List of parameters](https://developer.mozilla.org/en-US/docs/Web/API/HTMLCanvasElement/getContext)
 
-## Chart.js Documentation
+## [Chart.js Documentation](http://www.chartjs.org/docs/)
 
 <!-- 
 
@@ -25,11 +25,11 @@
 
 -->
 
-1.text
+1.creates charts in HTML
 
-2.text
+2.npm, github, or cdn
 
-## Easily Create Stunning Animated Charts with Chart.js
+## [Easily Create Stunning Animated Charts with Chart.js](https://www.webdesignerdepot.com/2013/11/easily-create-stunning-animated-charts-with-chart-js/)
 
 <!-- 
 
@@ -38,8 +38,16 @@
 
 -->
 
-1.text
+1.more visually appealing and there are preferred charts to show certain information compared to a simple table. 
 
-2.text
+2.displaying the salmon cookies sales would ahve been better with a chart
 
-###Things I wish I Knew More About
+### Bookmark and Review
+
+[Drawing Shapes With Canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes)
+
+[Applying Style and Colors - Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Applying_styles_and_colors)
+
+[Drawing Text - Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_text)
+
+### Things I wish I Knew More About
