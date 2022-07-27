@@ -40,5 +40,6 @@ Growth mindset is the state of allowing oneself to become familiar with failure 
 - [Day 11: Audio, Video, Images:](code-201n94/class-11.md)
 - [Day 12: Chart.js, Canvas](code-201n94/class-12.md)
 - [Day 13: Local Storage](code-201n94/class-13.md)
-- [Day 14:](code-201n94/class-14.md)
+- [Day 14a: CSS transitions](code-201n94/class-14a.md)
+- [Day 14b: Building the Perfect Team](code-201n94/class-14b.md))
 - [Day 15:](code-201n94/class-15.md)
