@@ -1,5 +1,5 @@
 
-# Module 04 Reading Notes: *HTML and other basics of Web Design*
+# Class-04: Reading Notes _HTML and other basics of Web Design_
 
 ## Wireframing
 

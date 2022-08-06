@@ -1,4 +1,4 @@
-# Programming with JavaScript: _Going Beyond Variables and Introducing Funtions_
+# Class-07: Programming with JavaScript _Going Beyond Variables and Introducing Funtions_
 
 ## Control Flow
 

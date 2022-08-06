@@ -1,5 +1,5 @@
 
-# Revision and the Cloud: *Using terminal and VS Code to edit a GitHub Repository*
+# Class-03: Revision and the Cloud _Using terminal and VS Code to edit a GitHub Repository_
 
 ## Git
 

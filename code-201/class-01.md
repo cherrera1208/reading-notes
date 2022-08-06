@@ -1,4 +1,4 @@
-# Class-01: Getting Started: _introduction to WebDev and front-end languages_
+# Class-01: Getting Started _introduction to WebDev and front-end languages_
 
 This topic will cover the very basic ideas and concepts of front-end languages.
 

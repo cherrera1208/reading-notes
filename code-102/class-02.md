@@ -1,4 +1,4 @@
-# Module 02 Reading Notes: *Computer Set Up*
+# Class-02: Reading Notes _Computer Set Up_
 
 ## Text Editors
 

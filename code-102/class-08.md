@@ -1,4 +1,4 @@
-# Operators and Loops: *While, do-while, and For loops*
+# Class-08: Operators and Loops _While, do-while, and For loops_
 
 ## While
 

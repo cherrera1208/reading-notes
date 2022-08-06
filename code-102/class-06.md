@@ -1,5 +1,5 @@
 
-# Dynamic Web Pages With JavaScript: *basic JavaScript*
+# Class-06: Dynamic Web Pages With JavaScript _basic JavaScript_
 
 # JavaScript Introduction
 

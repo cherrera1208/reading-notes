@@ -1,5 +1,5 @@
 
-# Design Web Pages With CSS: *The basics of using CSS to style webpages*
+# Class-05: Design Web Pages With CSS _The basics of using CSS to style webpages_
 
 ## CSS
 
