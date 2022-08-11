@@ -2,7 +2,7 @@
 
 ## Topic Summary
 
-_text here_
+React is a powerful, widely used library that programmers utilize to maked more streamlined and customizable code for web-app UIs. This is achieved through the reusability of _components_.
 
 ## Readings
 
@@ -16,17 +16,23 @@ _text here_
 
   3.What are the advantages of using component-based architecture?
 
-- Answers: 
+- Answers:
 
-  1.text
+  1.A component is a modular and reusable set of well-defined functionalities intended to interact with other components.
 
-  2.text
+  2.Encapsulate functionality and behaviors of a software element into a reusable and self-deployable binary unit and is replaceable, non context specific, extensible, encapsulated, and independent. A component can be viewed in three ways: object-oriented, conventional, and process-related.
 
-  3.text
+  - Object-oriented: is a set of one or more coopertating classes.
+
+  - Conventional: is a functional element of a program that processes logic, has an internal data structure to implement that logic, and an interface that enables the component to be invoked.
+
+  - Process-related: Builds from existing componenets maintained in a library.
+
+  3.Component reusability reduces time and cost to develop code, and increases reliability by reusing stable existing components.
 
 ### [What is Props and How to Use it in React](https://itnext.io/what-is-props-and-how-to-use-it-in-react-da307f500da0#:~:text=%E2%80%9CProps%E2%80%9D%20is%20a%20special%20keyword,way%20from%20parent%20to%20child)
 
-- Questions: 
+- Questions:
 
   1.What is “props” short for?
 
@@ -34,13 +40,13 @@ _text here_
 
   3.What is the flow of props?
 
-- Answers: 
+- Answers:
 
-  1.text
+  1.properties
 
-  2.text
+  2.passes data from one component to another
 
-  3.text
+  3.uni-directional (one way from parent to child)
 
 ## Bookmark and Review
 
