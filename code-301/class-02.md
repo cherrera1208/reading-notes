@@ -2,8 +2,7 @@
 
 ## Topic Summary
 
-The React lifecycle consists of three major parts, the mounting, updating, and unmounting phases. There is more detail to it than that, and the descriptions are full of jargon, but it's pretty straightforward.
-Also, prop and state are two important concepts about react componenets and it is vital to understand the difference.
+The React lifecycle consists of three major parts, the mounting, updating, and unmounting phases. There is more detail to it than that, and the descriptions are full of jargon, but it's pretty straightforward. Also, prop and state are two important concepts about react components and it is vital to understand the difference.
 
 ## Readings
 
@@ -27,7 +26,7 @@ Also, prop and state are two important concepts about react componenets and it i
 
   3. constructor > render > React Updates > componentDidMount > componenetWillUnmount
 
-  4. Where initializations requiring DOM nodes should be, and where remote endpoint data should be instantiated. Also, a good place for subscriptions.
+  4. Where initialization requiring DOM nodes should be, and where remote endpoint data should be instantiated. Also, a good place for subscriptions.
 
 ### [React State vs Props](https://www.youtube.com/watch?v=IYvD9oBCuJI)
 
@@ -43,9 +42,9 @@ Also, prop and state are two important concepts about react componenets and it i
 
 - Answers:
 
-  1. Componenets that are initialized to or to be rendered. Similar to things passed through a function.
+  1. Components that are initialized to or to be rendered. Similar to things passed through a function.
 
-  2. State is handled in the componenet, props are handled outside the componenet.
+  2. State is handled in the component, props are handled outside the component.
 
   3. When the state is updated in the component.
 
