@@ -1,4 +1,4 @@
-# Class-03:
+# Class-03: Passing Functions as Props
 
 ## Topic Summary
 
@@ -16,7 +16,7 @@ _text here_
 
   3.
 
-- Answers: 
+- Answers:
 
   1.
 
@@ -26,7 +26,7 @@ _text here_
 
 ### [topic]()
 
-- Questions: 
+- Questions:
 
   1.
 
@@ -34,7 +34,7 @@ _text here_
 
   3.
 
-- Answers: 
+- Answers:
 
   1.
 
@@ -55,5 +55,3 @@ _text here_
 - []()
 
 ## Things I Want to Know More About
-
-_text_
