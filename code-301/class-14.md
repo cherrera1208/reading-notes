@@ -1,4 +1,4 @@
-# Class-14:
+# Class-14: Diversity & Inclusion in the Tech Industry
 
 ## Topic Summary
 

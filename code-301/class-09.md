@@ -1,4 +1,4 @@
-# Class-09:
+# Class-09: Functional Programming
 
 ## Topic Summary
 

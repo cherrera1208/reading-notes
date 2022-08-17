@@ -1,4 +1,4 @@
-# Class-07:
+# Class-07: REST
 
 ## Topic Summary
 

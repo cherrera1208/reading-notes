@@ -1,4 +1,4 @@
-# Class-04:
+# Class-04: React and Forms
 
 ## Topic Summary
 
@@ -16,7 +16,7 @@ _text here_
 
   3.
 
-- Answers: 
+- Answers:
 
   1.
 
@@ -26,7 +26,7 @@ _text here_
 
 ### [topic]()
 
-- Questions: 
+- Questions:
 
   1.
 
@@ -34,7 +34,7 @@ _text here_
 
   3.
 
-- Answers: 
+- Answers:
 
   1.
 

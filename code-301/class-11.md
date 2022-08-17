@@ -1,4 +1,4 @@
-# Class-11:
+# Class-11: Mongo and Mongoose
 
 ## Topic Summary
 

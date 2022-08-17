@@ -1,4 +1,4 @@
-# Class-05:
+# Class-05: Putting it all together
 
 ## Topic Summary
 
