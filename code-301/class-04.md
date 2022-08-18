@@ -14,9 +14,9 @@ Topic Summary: _text_
 
 - Answers:
 
-  1. A componenet whose input value is always driven by the react state which allows one to pass values to other UI elements, or reset it from event handlers. Acts as a "single source of truth".
+  1. A component whose input value is always driven by the react state which allows one to pass values to other UI elements, or reset it from event handlers. Acts as a "single source of truth".
   2. 
-  3. asdf
+  3. 
 
 [The Conditional (Ternary) Operator Explained](https://codeburst.io/javascript-the-conditional-ternary-operator-explained-cac7218beeff)
 
