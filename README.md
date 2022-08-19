@@ -38,7 +38,7 @@ A collection of notes covering topics from beginner to advanced web development 
 - [Class 02: State and Props](code-301/class-02.md)
 - [Class 03: Passing Functions as Props](code-301/class-03.md)
 - [Class 04: React and Forms](code-301/class-04.md)
-- [Class 05:](code-301/class-05.md)
+- [Class 05: Putting it all together](code-301/class-05.md)
 - [Class 06:](code-301/class-06.md)
 - [Class 07:](code-301/class-07.md)
 - [Class 08:](code-301/class-08.md)
