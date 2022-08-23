@@ -1,59 +1,46 @@
-# Class-07: REST
+Readings: REST
+==============
 
-## Topic Summary
+Below you will find some reading material, code samples, and some additional resources that support today’s topic and the upcoming lecture.
 
-_text here_
+Review the Submission Instructions for guidance on completing and submitting this assignment.
 
-## Readings
+Reading
+-------
 
-### [topic]()
+[What Google Learned From Its Quest to Build the Perfect Team](https://www.google.com/amp/mobile.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.amp.html)
 
-- Questions:
+> If you took Code 201, skim this article again for a refresher. If you did not take Code 201, read this article and think about how it can influence the way you work with your partners during pair programming.
 
-  1.
+[How I explained REST to my brother](https://gist.github.com/brookr/5977550)
 
-  2.
+1.  Who is Roy Fielding?
+2.  Why don’t the techniques that we use today work well when we need to be able to talk to all of the machines in the world?
+3.  What is the HTTP protocol that Fielding and his friends created?
+4.  What does a `GET` do?
+5.  What does a `POST` do?
+6.  What does `PUT` do?
+7.  What does `PATCH` do?
 
-  3.
+API Keys
+--------
 
-- Answers: 
+Request a personal API key from the following APIs. You should receive these in your email within a few hours, often within minutes. Please request these keys prior to lecture to allow adequate time because you will need them in order to complete your lab assignment. Note: do not post your API keys in the Canvas discussion or on GitHub. Save them in a secure place.
 
-  1.
+[Geocoding API](https://locationiq.com/)
 
-  2.
+1.  Did you get your API key?
 
-  3.
+[Weather Bit API](https://www.weatherbit.io/)
 
-### [topic]()
+1.  Did you get your API key?
 
-- Questions: 
+[Yelp API Docs](https://www.yelp.com/developers/documentation/v3/business_search)
 
-  1.
+1.  Did you get your API key?
 
-  2.
+[The Movie DB API Docs](https://developers.themoviedb.org/3/getting-started/introduction)
 
-  3.
+1.  Did you get your API key?
 
-- Answers: 
-
-  1.
-
-  2.
-
-  3.
-
-## Bookmark and Review
-
-- []()
-
-- []()
-
-- []()
-
-- []()
-
-- []()
-
-## Things I Want to Know More About
-
-_text_
+Yes to all of the above 
