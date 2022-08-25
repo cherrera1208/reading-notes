@@ -42,7 +42,7 @@ A collection of notes covering topics from beginner to advanced web development 
 - [Class 06: NODE.js](code-301/class-06.md)
 - [Class 07: Rest](code-301/class-07.md)
 - [Class 08:](code-301/class-08.md)
-- [Class 09:](code-301/class-09.md)
+- [Class 09: Functional Programming](code-301/class-09.md)
 - [Class 10:](code-301/class-10.md)
 - [Class 11:](code-301/class-11.md)
 - [Class 12:](code-301/class-12.md)
