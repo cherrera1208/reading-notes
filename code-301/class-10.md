@@ -1,59 +1,27 @@
-# Class-10: In memory storage
+Classs 10: In memory storage
+===========================
 
-## Topic Summary
+Reading
+-------
 
-_text here_
+[Understanding the JavaScript Call Stack](https://medium.freecodecamp.org/understanding-the-javascript-call-stack-861e41ae61d4)
 
-## Readings
+1.  What is a ‘call’?
+2.  How many ‘calls’ can happen at once?
+3.  What does LIFO mean?
+4.  Draw an example of a call stack and the functions that would need to be invoked to generate that call stack.
+5.  What causes a Stack Overflow?
 
-### [topic]()
+[JavaScript error messages](https://codeburst.io/javascript-error-messages-debugging-d23f84f0ae7c)
 
-- Questions:
+1.  What is a ‘reference error’?
+2.  What is a ‘syntax error’?
+3.  What is a ‘range error’?
+4.  What is a ‘type error’?
+5.  What is a breakpoint?
+6.  What does the word ‘debugger’ do in your code?
 
-  1.
+Bookmark and Review
+-------------------
 
-  2.
-
-  3.
-
-- Answers:
-
-  1.
-
-  2.
-
-  3.
-
-### [topic]()
-
-- Questions:
-
-  1.
-
-  2.
-
-  3.
-
-- Answers:
-
-  1.
-
-  2.
-
-  3.
-
-## Bookmark and Review
-
-- []()
-
-- []()
-
-- []()
-
-- []()
-
-- []()
-
-## Things I Want to Know More About
-
-_text_
+*   [JavaScript errors reference on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors)
