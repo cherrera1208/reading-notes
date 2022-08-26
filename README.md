@@ -41,7 +41,7 @@ A collection of notes covering topics from beginner to advanced web development 
 - [Class 05: Putting it all together](code-301/class-05.md)
 - [Class 06: NODE.js](code-301/class-06.md)
 - [Class 07: Rest](code-301/class-07.md)
-- [Class 08: APIs****](code-301/class-08.md)
+- [Class 08: APIs](code-301/class-08.md)
 - [Class 09: Functional Programming](code-301/class-09.md)
 - [Class 10: In Memory Storage](code-301/class-10.md)
 - [Class 11: Mongo and Mongoose](code-301/class-11.md)
