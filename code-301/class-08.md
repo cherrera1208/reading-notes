@@ -1,59 +1,61 @@
-# Class-08: APIs
+Class 08: APIs
+==============
 
-## Topic Summary
+Summary:
 
-_text here_
+Reading
+-------
 
-## Readings
+[API Design Best Practices](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
 
-### [topic]()
+1. What does REST stand for?
 
-- Questions:
+    representational state transfer
 
-  1.
+2. REST APIs are designed around a **\_\_****\_\_**.
 
-  2.
+    resources
 
-  3.
+3. What is an identifier of a resource? Give an example.
 
-- Answers: 
+    a URI, a unique identifier. A customer's order is an example
 
-  1.
+4. What are the most common HTTP verbs?
 
-  2.
+    GET, POST, PUT, PATCH, DELETE
 
-  3.
+5. What should the URIs be based on?
 
-### [topic]()
+    nouns, i.e. the resources
 
-- Questions: 
+6. Give an example of a good URI.
 
-  1.
+    ...com/orders -> order is a noun, which is good
+    ...com/create-order -> create is a verb, which is bad
 
-  2.
+7. What does it mean to have a ‘chatty’ web API? Is this a good or a bad thing?
 
-  3.
+    when an API exposes large numbers of small resources
 
-- Answers: 
+8. What status code does a successful `GET` request return?
 
-  1.
+    status code 200(ok)
 
-  2.
+9. What status code does an unsuccessful `GET` request return?
 
-  3.
+    status code 404(not found) or 201(no content)
 
-## Bookmark and Review
+10. What status code does a successful `POST` request return?
 
-- []()
+    code 201(created)
 
-- []()
+11. What status code does a successful `DELETE` request return?
 
-- []()
+    code 202(accepted)
 
-- []()
+Bookmark and Review
+-------------------
 
-- []()
-
-## Things I Want to Know More About
-
-_text_
+* [RegExr](https://regexr.com/) - Pay particular attention to the cheatsheet
+* [Regex Tutorial](https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285)
+* [Regex 101](https://regex101.com/)

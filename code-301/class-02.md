@@ -68,4 +68,4 @@ The React lifecycle consists of three major parts, the mounting, updating, and u
 
 ## Things I Want to Know More About
 
-This was a brief overview of the topics, so it didn't get too in depth. I would like to read over the specifics of these topics to be more knowlegable on the subjects.
+This was a brief overview of the topics, so it didn't get too in depth. I would like to read over the specifics of these topics to be more knowledgeable on the subjects.

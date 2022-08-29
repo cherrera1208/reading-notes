@@ -20,17 +20,15 @@ _text here_
   
   5.How can you identify where state needs to live?
 
-- Answers: 
+- Answers:
 
-  1.ideally, a component should only be responsible for one things. If it grows out of it's initial responsibility, it should be divided into more components. 
-
+  1.ideally, a component should only be responsible for one things. If it grows out of it's initial responsibility, it should be divided into more components.
   2.
-
   3.
 
 ### [Higher-Order Functions](https://eloquentjavascript.net/05_higher_order.html#h_xxCc98lOBK)
 
-- Questions: 
+- Questions:
 
   1.What is a “higher-order function”?
 
@@ -38,7 +36,7 @@ _text here_
 
   3.Explain how either map or reduce operates, with regards to higher-order functions.
   
-- Answers: 
+- Answers:
 
   1.
 

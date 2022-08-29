@@ -1,59 +1,62 @@
-# Class-06: NODE.JS
+Class 06: NODE.JS
+=================
 
-## Topic Summary
+Summary:
 
-_text here_
+Reading
+-------
 
-## Readings
+[An Introduction to Node.js on sitepoint.com](https://www.sitepoint.com/an-introduction-to-node-js)
 
-### [topic]()
+1. What is node.js?
 
-- Questions:
+    from the quoted Stack Overflow answer: "Node.js is an event-based, non-blocking, asynchronous I/O runtime that uses Google’s V8 JavaScript engine and libuv library."
 
-  1.
+2. In your own words, what is Chrome’s V8 JavaScript Engine?
 
-  2.
+    This is Google's engine for chromium based browsers responsible for compiling JavaScript.
 
-  3.
+3. What does it mean that node is a JavaScript runtime?
 
-- Answers: 
+    Node is built from V8 but isn't ran in the browser, but in JS itself.
 
-  1.
+4. What is npm?
 
-  2.
+    Node Package Manager: The largest software registry and most popular package manager for JS. It is ubiquitous in JS.
 
-  3.
+5. What version of node are you running on your machine?
 
-### [topic]()
+    v18.4.0
 
-- Questions: 
+6. What version of npm are you running on your machine?
 
-  1.
+    v8.12.1
 
-  2.
+7. What command would you type to install a library/package called ‘jshint’?
 
-  3.
+    `npm install -g jshint` This installs it globally, remove the `-g` to install it for only one directory
 
-- Answers: 
+8. What is node used for?
 
-  1.
+    Node is used to built server-side and networking applications.
 
-  2.
+[6 Reasons for Pair Programming](https://www.codefellows.org/blog/6-reasons-for-pair-programming/)
 
-  3.
+1. What are the 6 reasons for pair programming?
 
-## Bookmark and Review
+    Greater efficiency, engaged collaboration, learning from fellow students, social skills, job interview readiness, work environment readiness.
 
-- []()
+2. In your experience, which of these reasons have you found most beneficial?
 
-- []()
+    Learning from fellow students and greater efficiency.
 
-- []()
+3. How does pair programming work?
 
-- []()
+    A "navigator and driver" system where one dictates completely hands-off and the other types according to the nav's instructions. Then they switch after a set time.
 
-- []()
+Bookmark and Review
+-------------------
 
-## Things I Want to Know More About
-
-_text_
+- [Geocoding API Docs](https://locationiq.com/)
+- [Axios docs](https://www.npmjs.com/package/axios)
+- [MDN async and await](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Async_await)

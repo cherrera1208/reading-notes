@@ -2,7 +2,7 @@
 
 ## Topic Summary
 
-React is a powerful, widely used library that programmers utilize to maked more streamlined and customizable code for web-app UIs. This is achieved through the reusability of _components_.
+React is a powerful, widely used library that programmers utilize to make more streamlined and customizable code for web-app UIs. This is achieved through the reusability of _components_.
 
 ## Readings
 
@@ -22,7 +22,7 @@ React is a powerful, widely used library that programmers utilize to maked more 
 
   2.Encapsulate functionality and behaviors of a software element into a reusable and self-deployable binary unit and is replaceable, non context specific, extensible, encapsulated, and independent. A component can be viewed in three ways: object-oriented, conventional, and process-related.
 
-  - Object-oriented: is a set of one or more coopertating classes.
+  - Object-oriented: is a set of one or more cooperating classes.
 
   - Conventional: is a functional element of a program that processes logic, has an internal data structure to implement that logic, and an interface that enables the component to be invoked.
 
