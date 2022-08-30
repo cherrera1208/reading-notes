@@ -10,7 +10,7 @@ Reading
 
 1. What is functional programming?
 
-    programming paradigm that treats computations as math evaluations 
+    programming paradigm that treats computations as math evaluations
 
 2. What is a pure function and how do we know if something is a pure function?
 
@@ -26,7 +26,7 @@ Reading
 
 5. What is Referential transparency?
 
-    when a fucntion consistently gives the same output if given the same imput
+    when a function consistently gives the same output if given the same input
 
 Videos
 ------
@@ -35,11 +35,11 @@ Videos
 
 1. What is a module?
 
-    an organized collection of JS files that peform a task, like React components. 
+    an organized collection of JS files that perform a task, like React components.
 
 2. What does the word ‘require’ do?
 
-    a fucntion that returns a module, like React's `extends`
+    a function that returns a module, like React's `extends`
 
 3. How do we bring another module into the file the we are working in?
 
