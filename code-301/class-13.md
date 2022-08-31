@@ -28,7 +28,11 @@ Videos
 2. If you had to describe the process of creating a RESTful API in 5 steps, what would they be?
 
     1.install the framework and packages (express)
+
     2.make PORT and API in .env, listen function
-    3.establish routes (starting with home '/' and star '*')
+
+    3.establish routes (starting with home '/' and star '\*\')
+
     4.use the 'required' components (app.use...)
+
     5.connect developed all modules
