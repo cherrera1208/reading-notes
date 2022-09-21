@@ -52,6 +52,8 @@ A collection of notes covering topics from beginner to advanced web development 
 
 ## Code 401 - Advanced Software Development
 
+### Daily Readings
+
 - [Class 01: Node Ecosystem](code-401/class-01.md)
 - [Class 02: Express, NPM, TDD, CI/CD](code-401/class-02.md)
 - [Class 03: Express REST API](code-401/class-03.md)
@@ -87,6 +89,9 @@ A collection of notes covering topics from beginner to advanced web development 
 - [Class 41: React Native](code-401/class-41.md)
 - [Class 42: Ethics](code-401/class-42.md)
 - [Class 43: Open-Source Software Contribution](code-401/class-43.md)
-- [Engineering Reading](code-401/engineeringReadings.md)
-- [Introduction to SQL](code-401/introductionToSQL.md)
+
+### General Topics
+
+- [Engineering Readings](code-401/engineeringReadings.md)
+- [Introduction to Sql](code-401/introductionToSQL.md)
 - [Practice in the Terminal](code-401/practiceInTheTerminal.md)
