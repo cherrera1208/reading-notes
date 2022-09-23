@@ -7,14 +7,20 @@ Reading
 [nosql vs sql](https://www.thegeekstuff.com/2014/01/sql-vs-nosql-db/?utm_source=tuicool)
 
 1. What type of database is the best fit for the complex query intensive environment?
-2. What type of database is the best fit for hierarchical data storage?
-3. Describe the differences in scalability between a SQl and NoSQL database as though you were speaking to a non-technical friend.
+  SQL
+3. What type of database is the best fit for hierarchical data storage?
+  noSQL
+5. Describe the differences in scalability between a SQl and NoSQL database as though you were speaking to a non-technical friend.
+  SQL is vertically scalable, while noSQL is horizontally scalable. Vertical      scalability means that more items can be stored with greater comuting power. Horizontal DBs can be scaled with more servers.
 
 [sql modeling techniques](https://www.essentialsql.com/get-ready-to-learn-sql-7-simplified-data-modeling/)
 
 1. Among data tables, what is a one-to-many relationship and how do we “relate” them?
-2. Prior to designing your relational database, it might be useful to **\_\_**\_ a **\_\_**\_ of the database tables and their relationships.
-3. Explain the difference between a primary and foreign key.
+  one-to-many are relational tables where one table can relate to many entries of another
+3. Prior to designing your relational database, it might be useful to **\_\_**\_ a **\_\_**\_ of the database tables and their relationships.
+  diagrams
+5. Explain the difference between a primary and foreign key.
+  primary key is the unique key present in a specific table, and a foreign key is a related primary key from another table. 
 
 Videos
 ------
