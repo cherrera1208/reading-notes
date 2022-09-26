@@ -40,7 +40,7 @@ Readings
 
 2. How should your error messaging respond (both HTTP and HTML)? Why?
 
-    *generically. It shouldn't include any "clues" as to why the password was incorrect, such as _incorrect password_ or _account does not exist_, but instead something like _incorrect credentials_
+    * generically. It shouldn't include any "clues" as to why the password was incorrect, such as _incorrect password_ or _account does not exist_, but instead something like _incorrect credentials_
 
 3. Bookmark this link also and consider OWASP fundamentals any time you interact with authentication. Applications developed with security in mind from inception have fewer vulnerabilities throughout their lifecycle.
 
