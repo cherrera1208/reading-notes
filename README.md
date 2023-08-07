@@ -9,6 +9,8 @@ A collection of notes covering topics from beginner to advanced web development 
       ipsum
 </details>
 
+- lorem ipsum
+
 - [Class 01: Learning Markdown](code-102n64/mod01.md)
 - [Class 02: The Coder's Computer](code-102n64/mod02.md)
 - [Class 03: Revisions and the Coud](code-102n64/mod03.md)
